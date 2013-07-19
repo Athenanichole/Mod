@@ -1,4 +1,4 @@
 Mod
 ===
 
-The source cod to the Mod
+The source cod to the Mod for Minecraft
